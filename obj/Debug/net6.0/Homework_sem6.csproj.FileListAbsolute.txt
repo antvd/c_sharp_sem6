@@ -1,0 +1,15 @@
+C:\Users\1924\OneDrive\Рабочий стол\Школа\програмирование\С#_examples\Homework_sem6\bin\Debug\net6.0\Homework_sem6.exe
+C:\Users\1924\OneDrive\Рабочий стол\Школа\програмирование\С#_examples\Homework_sem6\bin\Debug\net6.0\Homework_sem6.deps.json
+C:\Users\1924\OneDrive\Рабочий стол\Школа\програмирование\С#_examples\Homework_sem6\bin\Debug\net6.0\Homework_sem6.runtimeconfig.json
+C:\Users\1924\OneDrive\Рабочий стол\Школа\програмирование\С#_examples\Homework_sem6\bin\Debug\net6.0\Homework_sem6.dll
+C:\Users\1924\OneDrive\Рабочий стол\Школа\програмирование\С#_examples\Homework_sem6\bin\Debug\net6.0\Homework_sem6.pdb
+C:\Users\1924\OneDrive\Рабочий стол\Школа\програмирование\С#_examples\Homework_sem6\obj\Debug\net6.0\Homework_sem6.csproj.AssemblyReference.cache
+C:\Users\1924\OneDrive\Рабочий стол\Школа\програмирование\С#_examples\Homework_sem6\obj\Debug\net6.0\Homework_sem6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1924\OneDrive\Рабочий стол\Школа\програмирование\С#_examples\Homework_sem6\obj\Debug\net6.0\Homework_sem6.AssemblyInfoInputs.cache
+C:\Users\1924\OneDrive\Рабочий стол\Школа\програмирование\С#_examples\Homework_sem6\obj\Debug\net6.0\Homework_sem6.AssemblyInfo.cs
+C:\Users\1924\OneDrive\Рабочий стол\Школа\програмирование\С#_examples\Homework_sem6\obj\Debug\net6.0\Homework_sem6.csproj.CoreCompileInputs.cache
+C:\Users\1924\OneDrive\Рабочий стол\Школа\програмирование\С#_examples\Homework_sem6\obj\Debug\net6.0\Homework_sem6.dll
+C:\Users\1924\OneDrive\Рабочий стол\Школа\програмирование\С#_examples\Homework_sem6\obj\Debug\net6.0\refint\Homework_sem6.dll
+C:\Users\1924\OneDrive\Рабочий стол\Школа\програмирование\С#_examples\Homework_sem6\obj\Debug\net6.0\Homework_sem6.pdb
+C:\Users\1924\OneDrive\Рабочий стол\Школа\програмирование\С#_examples\Homework_sem6\obj\Debug\net6.0\Homework_sem6.genruntimeconfig.cache
+C:\Users\1924\OneDrive\Рабочий стол\Школа\програмирование\С#_examples\Homework_sem6\obj\Debug\net6.0\ref\Homework_sem6.dll
